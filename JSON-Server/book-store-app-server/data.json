@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "learn react ",
+      "description": "learn react from scratch",
+      "price": 30
+    },
+    {
+      "title": "learn js",
+      "price": "50",
+      "description": "learn js with basel",
+      "userName": "Basel Shibob",
+      "id": 2
+    },
+    {
+      "title": "learn python",
+      "price": "40",
+      "description": "learn python with basel",
+      "userName": "Basel Shibob",
+      "id": 3
+    },
+    {
+      "title": "learn php",
+      "price": "20",
+      "description": "learn php in 1hour",
+      "userName": "Basel Shibob",
+      "id": 4
+    },
+    {
+      "title": "learn vue",
+      "price": "120",
+      "description": "learn vue from scratch",
+      "userName": "Basel Shibob",
+      "id": 5
+    },
+    {
+      "title": "learn css",
+      "price": "33",
+      "description": "learn css in 1 hour",
+      "userName": "Basel Shibob",
+      "id": 6
+    },
+    {
+      "title": "learn HTML",
+      "price": "66",
+      "description": "learn html in 5 hour",
+      "userName": "Basel Shibob",
+      "id": 7
+    }
+  ]
+}
