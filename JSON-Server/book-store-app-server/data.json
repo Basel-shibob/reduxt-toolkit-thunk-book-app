@@ -33,20 +33,6 @@
       "description": "learn vue from scratch",
       "userName": "Basel Shibob",
       "id": 5
-    },
-    {
-      "title": "learn css",
-      "price": "33",
-      "description": "learn css in 1 hour",
-      "userName": "Basel Shibob",
-      "id": 6
-    },
-    {
-      "title": "learn HTML",
-      "price": "66",
-      "description": "learn html in 5 hour",
-      "userName": "Basel Shibob",
-      "id": 7
     }
   ]
 }
